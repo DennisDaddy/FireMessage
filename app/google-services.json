@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "221412358744",
+    "firebase_url": "https://firemessage-d65da.firebaseio.com",
+    "project_id": "firemessage-d65da",
+    "storage_bucket": "firemessage-d65da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221412358744:android:7f5da17cd362ac26",
+        "android_client_info": {
+          "package_name": "org.dennis.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221412358744-qu6gf2vehlfdrkrlmuh4sa682rphnjph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JDxM7dvAMNb2h3WhSUivt3OzEMT2HEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
